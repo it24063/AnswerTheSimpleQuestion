@@ -11,3 +11,6 @@ https://l.messenger.com/l.php?u=https%3A%2F%2Fgithub.com%2Fit24063%2FRactangleOu
 
 
 https://l.messenger.com/l.php?u=https%3A%2F%2Fgithub.com%2Fit24063%2FDisplaypatten.java%2Fblob%2Fmain%2FDisplaypattern.java&h=AT3MmraejuZzBcclaTD90diGP6dwusetHw46w3fXNGY5hsIfzdgn97t2vtx0k71Q6sczeLv_5ZBMg6Vv9SMWjtjYbflwIg2D9xmNx6KKnhCH7Qd0QHHRrU5GWCJ-Op_xbwHL
+
+
+https://github.com/it24063/Outputdisplaypattren.png
